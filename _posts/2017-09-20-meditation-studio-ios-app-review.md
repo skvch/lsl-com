@@ -2,7 +2,7 @@
 layout: post
 title: Meditation Studio App Review
 description: We review the Meditation Studio app for the iPhone.
-image: assets/images/meditation_studio_screen1.png
+image: assets/images/meditation_studio_screen1_4-3b.png
 ---
 In our busy lives, mindfulness is becoming a required tactic to cope with everyday stress, improve cognitive abilities and generally calming our minds. 
 
