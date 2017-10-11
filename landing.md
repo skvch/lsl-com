@@ -44,6 +44,7 @@ a mental state achieved by focusing one's awareness on the present moment, while
 			</div>
 		</div>
 	</section>
+<!--
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
@@ -77,8 +78,9 @@ a mental state achieved by focusing one's awareness on the present moment, while
 		</div>
 	</section>
 </section>
-
+-->
 <!-- Three -->
+<!--
 <section id="three">
 	<div class="inner">
 		<header class="major">
@@ -90,5 +92,5 @@ a mental state achieved by focusing one's awareness on the present moment, while
 		</ul>
 	</div>
 </section>
-
+-->
 </div>
