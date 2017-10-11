@@ -36,7 +36,7 @@ nav-menu: true
                                 <header class="major">
                                         <h3>Meditation Apps</h3>
                                 </header>
-                                <p>This October we're reviewing the best meditation apps availble now.
+                                <p>This October we're reviewing the best meditation apps availble now.</p>
                                 <ul class="actions">
                                         <li><a href="all_posts.html" class="button">Go!</a></li>
                                 </ul>
@@ -93,4 +93,7 @@ nav-menu: true
 	</div>
 </section>
 -->
+
+</section>
+
 </div>
