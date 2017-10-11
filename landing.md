@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Let's Get Started
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Digging in. <br />'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
