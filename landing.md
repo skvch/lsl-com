@@ -15,7 +15,6 @@ nav-menu: true
                         <h2>Mindfulness</h2>
                 </header>
                 <p>
-                noun<br/>
                 noun: mindfulness<br/>
                 1.<br/>
                 the quality or state of being conscious or aware of something.<br/>
