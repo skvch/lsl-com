@@ -6,4 +6,4 @@ description: null
 image: null
 author: null
 ---
-We offer a wide variety of reviews and services to help you improve your life and well being. 
+We offer a wide variety of reviews and articles to help you improve your life and overall well being. 

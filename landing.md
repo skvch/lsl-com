@@ -1,7 +1,7 @@
 ---
-title: Let's Get Started
+title: Mindfulness
 layout: landing
-description: 'Digging in. <br />'
+description: '1. the quality or state of being conscious or aware of something.<br />2. a mental state achieved by focusing ones awareness on the present moment, while calmly acknowledging and accepting ones feelings, thoughts, and bodily sensations, used as a therapeutic technique.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -12,14 +12,10 @@ nav-menu: true
 <section id="one">
         <div class="inner">
                 <header class="major">
-                        <h2>Mindfulness</h2>
+                        <h2>New Articles</h2>
                 </header>
                 <p>
-                noun: mindfulness<br/>
-                1.<br/>
-                the quality or state of being conscious or aware of something.<br/>
-                2.<br/>
-                a mental state achieved by focusing one's awareness on the present moment, while calmly acknowledging and accepting one's feelings, thoughts, and bodily sensations, used as a therapeutic technique.
+                There are new articles focusing on meditation and breathing techniques.
                 </p>
         </div>
 </section>
@@ -35,7 +31,7 @@ nav-menu: true
                                 <header class="major">
                                         <h3>Meditation Apps</h3>
                                 </header>
-                                <p>This October we're reviewing the best meditation apps availble now.</p>
+                                <p>We're reviewing the best meditation apps available now.</p>
                                 <ul class="actions">
                                         <li><a href="all_posts.html" class="button">Go!</a></li>
                                 </ul>
